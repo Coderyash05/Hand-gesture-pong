@@ -18,7 +18,7 @@ MediaPipe
 Pygame
 ## Installation
 1. Clone the Repository
-git clone https://github.com/your-username/hand-gesture-pong.git
+git clone https://github.com/Coderyash05/hand-gesture-pong.git
 cd hand-gesture-pong
 2. Install Dependencies
 pip install opencv-python mediapipe pygame
